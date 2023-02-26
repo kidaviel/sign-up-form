@@ -118,3 +118,10 @@ button {
 .text:nth-child(1) {
   margin-bottom: 8px;
 }
+
+input {
+  height: 20px;
+  border-color: rgba(25, 0, 255, 0.573);
+  border-radius: 8px;
+  background-color: #cdb4db;
+}
